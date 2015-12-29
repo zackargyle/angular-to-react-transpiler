@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "engines": {
+    "node": ">= 0.10",
+    "npm": ">= 2.1"
+  },
+  "dependencies": {
+    "dedent": "^0.6.0",
+    "esprima": "^2.6.0",
+    "js-beautify": "^1.5.10",
+    "minimist": "^1.2.0",
+    "mkdirp": "^0.5.1"
+  }
+}
